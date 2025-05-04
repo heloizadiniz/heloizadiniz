@@ -13,10 +13,7 @@ Olá, sou a Heloiza Diniz 🌺
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 
